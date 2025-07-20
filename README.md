@@ -1,5 +1,5 @@
 # QuizCraft 🎯  
-A sleek, interactive quiz app built with HTML, CSS, and JavaScript.
+https://oluwafemix-quizcraft.netlify.app/
 
 ## 🚀 Live Demo  
 [Click to play QuizCraft =>(https://https://oluwafemix-quizcraft.netlify.app/)]
