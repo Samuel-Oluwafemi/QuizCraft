@@ -2,7 +2,7 @@
 A sleek, interactive quiz app built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo  
-[Click to play QuizCraft](https://https://oluwafemix-quizcraft.netlify.app/)
+[Click to play QuizCraft =>(https://https://oluwafemix-quizcraft.netlify.app/)]
 
 ## ✨ Features  
 - One question at a time  
