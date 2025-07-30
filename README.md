@@ -1,5 +1,5 @@
 # QuizCraft 🎯  
-https://oluwafemix-quizcraft.netlify.app/
+An advanced quiz web app, built with HTML, CSS and JavaScript 
 
 ## 🚀 Live Demo  
 [Click to play QuizCraft =>(https://https://oluwafemix-quizcraft.netlify.app/)]
